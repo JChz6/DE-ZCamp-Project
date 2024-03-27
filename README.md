@@ -7,6 +7,8 @@
 <body>
   <h1>Real Estate Market in Peru</h1>
 
+  <p>Check the dashboard <a href="https://lookerstudio.google.com/reporting/12479d0d-f7b8-4cdb-b7f3-f987547e56bb">***HERE***</a>.</p>
+
   <h2>Context:</h2>
   <p>One of my primary medium-term goals is to purchase my own home. Being data-driven, I actively sought out data to analyze the real estate market, exploring opportunities within my city and country to ensure I make the most informed decision tailored to my needs and budget.</p>
 
@@ -72,7 +74,8 @@
   
   
   
-  
+  ![Architecture](https://github.com/JChz6/DE-ZCamp-Project/assets/116318822/52293665-d9aa-4330-9bf0-5c3d556780a6)
+
   
   
   <h2>Tutorial and navigation</h2>
