@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Real Estate Market in Peru</title>
 </head>
 <body>
   <h1>Real Estate Market in Peru</h1>
@@ -17,3 +16,67 @@
   <h2>Strategy:</h2>
   <p>Because new properties hit the market every day, I'll run my scraping script every two weeks (I'll automate this). The fresh data will then go through an automated data processing pipeline before getting stored in a data warehouse, ready to fuel an analytics dashboard.</p>
 
+<h2>Tools:</h2>
+<ol>
+  <li>
+    <strong>Web Scraping:</strong>
+    <ul>
+      <li>Python</li>
+      <li>Scrapy</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Cloud:</strong>
+    <ul>
+      <li>Google Cloud Platform (GCP)</li>
+      <li>Terraform (IaC)</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Data Ingestion (batch):</strong>
+    <ul>
+      <li>Python</li>
+      <li>Google Cloud Storage</li>
+      </ul>
+  </li>
+  <li>
+    <strong>Data Warehousing:</strong>
+    <ul>
+      <li>Google BigQuery</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Data Transformations and Processing:</strong>
+    <ul>
+      <li>Pyspark (Dataproc)</li>
+    </ul>
+  </li>
+    <li>
+    <strong>Orchestration and Automation:</strong>
+    <ul>
+      <li>Airflow (Cloud Composer)</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Dashboarding:</strong>
+    <ul>
+      <li>Google Looker Studio</li>
+    </ul>
+    <p>Check the dashboard <a href="https://lookerstudio.google.com/reporting/12479d0d-f7b8-4cdb-b7f3-f987547e56bb">***here***</a>.</p>
+  </li>
+</ol>
+
+
+  <h2>Architecture</h2>
+  <p>If you consider yourserlf a visual learner, I put together this brief animation of the architecture and workflow.</p>
+  
+  
+  
+  
+  
+  
+  <h2>Tutorial and navigation</h2>
+  <p>If you wish to explore the code or replicate the project, please refer to TUTORIAL.md.</p>
+
+</body>
+</html>
