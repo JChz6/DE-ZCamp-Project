@@ -79,7 +79,7 @@
   
   
   <h2>Tutorial and navigation</h2>
-  <p>If you wish to explore the code or replicate the project, please refer to ![TUTORIAL.md](https://github.com/JChz6/DE-ZCamp-Project/blob/main/TUTORIAL.md) .</p>
+  <p>If you wish to explore the code or replicate the project, please refer to <a href="https://github.com/JChz6/DE-ZCamp-Project/blob/main/TUTORIAL.md)>TUTORIAL.md .</p>
 
 
 </body>
