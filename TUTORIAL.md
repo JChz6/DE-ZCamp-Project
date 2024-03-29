@@ -5,51 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-</head>
-<body>
-  <h1>Folder Navigation</h1>
-
-  <h2>airflow</h2>
-  <strong>- project_workflow.py</strong>
-  <p>Python Script with the Airflow DAG and tasks to orchestrate and automate all the steps of the project.</p>
-
-  <h2>batch_processing</h2>
-  <strong>- pipeline.ipynb</strong>
-  <p>Jupyter Notebook for data cleaning and transformation. This file's purpose is to test the transformations and execute it partially. If you want to run the script, make sure you have Apache Spark installed (I used a GCP Virtual Machine).</p>
-  <strong>- pipeline.py</strong>
-  <p>Clean Python script with all the transformations and BigQuery connector. This script will be submitted as a Dataproc Job.</p>
-
-  <h2>datasets</h2>
-  <strong>- clean.parquet</strong>
-  <p>Processed data, ready to be ingested into BigQuery.</p>
-  <strong>- raw.csv</strong>
-  <p>Raw data, right out of the scraping process.</p>
-
-  <h2>terraform</h2>
-  <strong>- main.tf</strong>
-  <p>Main configuration file for Terraform, defining the infrastructure as code to provision (or destroy) all the necessary resources in the cloud.</p>
-  <strong>- variables.tf</strong>
-  <p>File containing variable definitions used in the main Terraform file (main.tf), facilitating code customization and reuse.</p>
-
-
-  <h2>web_scraping</h2>
-  <p>This folder contains all the Scrapy spiders and configuration for data extraction.</p>
-  <p>It also contains the Dockerfile used to build the image and submit it to Google Cloud Run.</p>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tutorial</title>
-</head>
-<body>
   <h1>Tutorial</h1>
 
   <h2>Getting Started</h2>
